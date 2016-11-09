@@ -1,0 +1,2 @@
+# SwitchCraft
+SwitchCraft Issue Tracker
