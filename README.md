@@ -15,4 +15,7 @@ Examples of valid issues:
     - Please provide as much details as you can, such as steps to reproduce the problem or screenshots.
     - Please do not report game breaking issues on the public issue tracker. Report issues you feel may be considered game breaking (economy/shop related, duplication, corruption, crashes) privately with a staff member.
   * Suggestions for the server
+  * Ban Appeals
+    - Provide evidence that shows you understand the reason you were banned.
+    - Convince me that the reasoning for ban is now invalid.
   * Mod requests
